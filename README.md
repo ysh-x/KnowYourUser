@@ -1,6 +1,6 @@
 # KnowYourUser
 
-KnowYourUser is a Model View Controlled based central accounts portal. The portal helps in creating a feed for visitors in corporate spaces and helps to keep track of the visitors to the space.
+KnowYourUser is a Model View Controller based central accounts portal. The portal helps in creating an account of visitors in corporate spaces and helps to keep track of the visitors who visits those place.
 
 ## Technology Used
 
